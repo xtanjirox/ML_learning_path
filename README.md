@@ -1,4 +1,4 @@
-# ML_learing_path
+# ML_learning_path
 A repository to learn ML algos and their implementation
 
 ### 1 - Theory and Maths 
